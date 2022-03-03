@@ -1466,10 +1466,10 @@ domexception@^2.0.1:
   dependencies:
     webidl-conversions "^5.0.0"
 
-dropbox@9.6.0:
-  version "9.6.0"
-  resolved "https://registry.yarnpkg.com/dropbox/-/dropbox-9.6.0.tgz#e2e256ecf9c066892c2ae9ccde2ba5e1aa6cfbc9"
-  integrity sha512-IduEx44FgtkAy22njmyG9Wx7t3HsczCp2F6ZcjjLIs0ptO0Cb/u0CWzBSDHQUBe/+1SYWnqCwjHIo5G1P30ZuA==
+dropbox@10.26.0:
+  version "10.26.0"
+  resolved "https://registry.yarnpkg.com/dropbox/-/dropbox-10.26.0.tgz#d336942b5c5e68f70f7becf407a0c7b076f57b0b"
+  integrity sha512-4zqsn62ptU937muWqdAKPLlnZqFIv1BtXkHTPo+sqz4z7HR/kgne1cfYDxO8MKSepBSj2f5iXmpvV8NkGQ/igA==
   dependencies:
     node-fetch "^2.6.1"
 
