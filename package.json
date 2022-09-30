@@ -30,7 +30,7 @@
   "author": "whalemare",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "1.2.7",
+    "@actions/core": "1.10.0",
     "dropbox": "9.6.0"
   },
   "devDependencies": {
